@@ -93,15 +93,16 @@ Documented the key findings and business insights from the analysis.
 
 ### Descriptive Statistics
 
-
+![Descriptive Statistics](pivot%20tables%20-chart/descriptive%20statistics.png)
 
 ### Pivot Table
 
-![Pivot Table](Screenshots/pivot_table.png)
+![Pivot Tables](pivot%20tables%20-chart/pivot%20tables.png)
 
 ### Box & Whisker Chart
 
-![Box and Whisker Chart](Screenshots/box_whisker_chart.png)
+### Box & Whisker Chart
+![Box & Whisker Chart](pivot%20tables%20-chart/box%26whisker%20chart.png)
 
 ## Outcome
 
